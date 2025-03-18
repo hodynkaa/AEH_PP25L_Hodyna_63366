@@ -1,0 +1,14 @@
+package pl.pp;
+import java.util.Scanner;
+public class mojaDrugaAplikacja01 {
+    public static void main(String[] args){
+        Scanner scanner = new Scanner(System.in);
+        int x = 10;
+        int result1 = x * 2;
+        int result2 = x * x;
+        System.out.println("x = " + x);
+        System.out.println("Dwukrotność x = " + result1);
+        System.out.println("x^2 = " + result2);
+
+    }
+}
