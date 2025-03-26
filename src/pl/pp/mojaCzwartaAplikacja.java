@@ -68,10 +68,10 @@ public class mojaCzwartaAplikacja {
                 else if(a == 3){
                     System.out.println(x*y);
                 }
-                else if(a == 4){
+                else {
                     System.out.println((x/y) + " lub " + (y/x));
                 }
-                else break;
+
             System.out.println("Prosze podać dwie liczby" + "\n");
 
         }
