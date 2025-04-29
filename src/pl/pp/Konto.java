@@ -1,11 +1,11 @@
 package pl.pp;
 
 public class Konto {
-    private String numerKonta;     // numer konta
-    private double saldo;          // dostępne środki
-    private String wlasciciel;     // imię i nazwisko właściciela
-    private String email;          // adres e-mail właściciela
-    private String telefon;        // numer telefonu właściciela
+    private String numerKonta;     
+    private double saldo;          
+    private String wlasciciel;     
+    private String email;          
+    private String telefon;        
 
     public Konto() {
     }
